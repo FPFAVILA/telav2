@@ -1,0 +1,31 @@
+
+[
+    {
+        "user": "J**o R**s",
+        "stars": 5,
+        "item": "Branco",
+        "text": "Gostei muito do fone! O design é bonito, combina com meu iPhone e a conexão Bluetooth foi super fácil de fazer. Pelo preço, vale muito a pena.",
+        "avatar_url": "https://i.pravatar.cc/153"
+    },
+    {
+        "user": "M**a S**a",
+        "stars": 5,
+        "item": "Branco",
+        "text": "Fiquei surpresa com a qualidade do som! Uso para ouvir música, assistir vídeos e atender ligações. É confortável e muito prático para levar na bolsa.",
+        "avatar_url": "https://i.pravatar.cc/156"
+    },
+    {
+        "user": "A**a P**a",
+        "stars": 5,
+        "item": "Branco",
+        "text": "Conectou rapidinho no meu iPhone e funcionou direitinho. O visual é lindo, os fones são leves e gostei bastante da experiência. Recomendo!",
+        "avatar_url": "https://i.pravatar.cc/157"
+    },
+    {
+        "user": "R**o M**s",
+        "stars": 5,
+        "item": "Branco",
+        "text": "Estava procurando um fone sem fio para usar no dia a dia e gostei bastante desse modelo. É fácil de usar, tem um design moderno e me atende muito bem para ouvir músicas e podcasts.",
+        "avatar_url": "https://i.pravatar.cc/158"
+    }
+]

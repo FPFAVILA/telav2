@@ -1,0 +1,81 @@
+[
+    {
+        "user": "Allana Fraga",
+        "handle": "@AllanaFraga7",
+        "time": "9-5",
+        "likes": 15200,
+        "avatar_url": "https://i.pravatar.cc/159",
+        "text": "coloca a promoção de 30 vai 🍄",
+        "replies": [
+            {
+                "user": "Usuário Anônimo",
+                "time": "9-5",
+                "text": "kkkkk também quero essa!",
+                "avatar_url": "https://i.pravatar.cc/160"
+            },
+            {
+                "user": "Suporte da Loja",
+                "time": "9-6",
+                "text": "Olá! Fique de olho, sempre temos promoções relâmpago! 😉",
+                "avatar_url": "https://i.pravatar.cc/161"
+            },
+            {
+                "user": "Cliente VIP",
+                "time": "9-6",
+                "text": "Comprei por 50 e já valeu, 30 é impossível!",
+                "avatar_url": "https://i.pravatar.cc/162"
+            }
+        ]
+    },
+    {
+        "user": "Socorro Lima",
+        "handle": "@SocorroL",
+        "time": "9-6",
+        "likes": 4096,
+        "avatar_url": "https://i.pravatar.cc/163",
+        "text": "60 reais nem morta 💀",
+        "replies": [
+            {
+                "user": "Elisa Silva",
+                "time": "Há 1 d",
+                "text": "Fran eu comprei lá por dia 07 por 57 veio original super bom maravilhoso ✨",
+                "avatar_url": "https://i.pravatar.cc/164"
+            }
+        ]
+    },
+    {
+        "user": "Mirella Santos",
+        "handle": "@Mirella.oficial",
+        "time": "9-6",
+        "likes": 1024,
+        "avatar_url": "https://i.pravatar.cc/165",
+        "text": "na shopee é mais barato 🌟",
+        "replies": [
+            {
+                "user": "Loja X",
+                "time": "9-7",
+                "text": "O nosso é original e com garantia, cuidado com imitações baratas! 😉",
+                "avatar_url": "https://i.pravatar.cc/166"
+            }
+        ]
+    },
+    {
+        "user": "moon",
+        "handle": "@moon_light",
+        "time": "9-7",
+        "likes": 2764,
+        "avatar_url": "https://i.pravatar.cc/167",
+        "text": "a gente vai estar preferindo os de 10 reais amg",
+        "replies": []
+    },
+    {
+        "user": "Loryss.pvd",
+        "handle": "@Loryss.pvd",
+        "time": "Há 2 d",
+        "likes": 0,
+        "avatar_url": "https://i.pravatar.cc/168",
+        "text": "Ebaaaaaa",
+        "replies": []
+    }
+
+]
